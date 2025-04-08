@@ -1,0 +1,20 @@
+:Author: Maggie Nguyen
+:Email: {maggie.hoang.nguyen@gmail.com}
+:Date: 25/10/2023
+:Revision: version#
+:License: Public Domain
+
+= Project: {Project}
+
+Soil Moisture Sensor Code for the Agricultural Robot. Detects soil moisture. 
+
+=== License
+This project is released under Public Domain.
+
+=== Contributing
+To contribute to this project please contact tsubasatz https://id.arduino.cc/tsubasatz
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
